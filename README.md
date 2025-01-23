@@ -47,7 +47,7 @@ Here's an updated version of your profile with "Nishchal Namdeo" and a more attr
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nishchal-namdeo/">
+  <a href="https://www.linkedin.com/in/nishchal-namdeo-010429253/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="25"/> 
   </a>
   <img width="12" />
